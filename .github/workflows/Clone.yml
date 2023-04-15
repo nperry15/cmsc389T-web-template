@@ -1,4 +1,4 @@
-name: clone workflow
+name: Clone Workflow
 on: 
   workflow_dispatch:   
 jobs:
